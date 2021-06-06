@@ -1,7 +1,10 @@
 # shields.io_icons
-쉴드io 뱃지 아이콘 링크 저장용
+
+## Info
+  쉴드io 뱃지 아이콘 링크 (shields.io badge icon links.)
 
 
+## Icons
 | 이름 (Name)| 아이콘 (icon)| URL|
 |----|----|----|
 | 1001Tracklists| <img src="https://img.shields.io/badge/1001Tracklists-222222?style=flat-square&logo=1001Tracklists&logoColor=white" /> | https://img.shields.io/badge/1001Tracklists-222222?style=flat-square&logo=1001Tracklists&logoColor=white
