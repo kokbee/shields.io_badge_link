@@ -10,8 +10,9 @@
 | 42|<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white" />|https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white|
 | 500px|<img src="https://img.shields.io/badge/500px-0099E5?style=flat-square&logo=500px&logoColor=white" />|https://img.shields.io/badge/500px-0099E5?style=flat-square&logo=500px&logoColor=white|
 | A-Frame|<img src="https://img.shields.io/badge/A-Frame-EF2D5E?style=flat-square&logo=A-Frame&logoColor=white" />| https://img.shields.io/badge/A-Frame-EF2D5E?style=flat-square&logo=A-Frame&logoColor=white|
-||||
-||||
+| ABB RobotStudio| <img src="https://img.shields.io/badge/ABB_RobotStudio-222222?style=flat-square&logo=ABB+RobotStudio&logoColor=white" />|https://img.shields.io/badge/ABB_RobotStudio-222222?style=flat-square&logo=ABB+RobotStudio&logoColor=white|
+| Abbvie |<img src="https://img.shields.io/badge/Abbvie-071D49?style=flat-square&logo=Abbvie&logoColor=white" />|https://img.shields.io/badge/Abbvie-071D49?style=flat-square&logo=Abbvie&logoColor=white|
+| Ableton Live |<img src="https://img.shields.io/badge/Ableton Live-000000?style=flat-square&logo=Ableton+Live&logoColor=white" />|https://img.shields.io/badge/Abbvie-000000?style=flat-square&logo=Ableton+Live&logoColor=white|
 ||||
 ||||
 ||||
