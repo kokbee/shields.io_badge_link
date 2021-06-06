@@ -1,5 +1,3 @@
-# shields.io_icons
-
 ## Info
   쉴드io 뱃지 아이콘 링크 (shields.io badge icon links.)
 
